@@ -1,0 +1,11 @@
+D:\Learning\EntityFramework\EFForSQLie\bin\Debug\netcoreapp2.0\EFForSQLie.deps.json
+D:\Learning\EntityFramework\EFForSQLie\bin\Debug\netcoreapp2.0\EFForSQLie.runtimeconfig.json
+D:\Learning\EntityFramework\EFForSQLie\bin\Debug\netcoreapp2.0\EFForSQLie.runtimeconfig.dev.json
+D:\Learning\EntityFramework\EFForSQLie\bin\Debug\netcoreapp2.0\EFForSQLie.dll
+D:\Learning\EntityFramework\EFForSQLie\bin\Debug\netcoreapp2.0\EFForSQLie.pdb
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.csprojAssemblyReference.cache
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.csproj.CoreCompileInputs.cache
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.AssemblyInfoInputs.cache
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.AssemblyInfo.cs
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.dll
+D:\Learning\EntityFramework\EFForSQLie\obj\Debug\netcoreapp2.0\EFForSQLie.pdb
